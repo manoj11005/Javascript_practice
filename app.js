@@ -1,0 +1,1 @@
+console.log("Hello Alexa, JavaScript is working!");
